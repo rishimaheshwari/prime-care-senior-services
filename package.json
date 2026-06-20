@@ -1,0 +1,15 @@
+{
+  "name": "prime-care-website",
+  "version": "1.0.0",
+  "description": "Prime Care Senior Services LLC — website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
